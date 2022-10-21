@@ -1,0 +1,31 @@
+/*Question ->
+  
+In this challenge we are drow a patern Patern is like this
+  
+****
+***
+**
+*
+
+
+Explain ->  We use to for loops first loops start with 4 and go up to 0,and decrement the value of i
+             and the second loop start with 1 and go up to i.And increment the value of j
+             After the value of i  we give a new line .
+
+*/    
+
+
+Solution->
+  
+  public class Patterns_5_ {
+  public static void main(String[] args) {
+    for(int i=4; i>=0; i--){
+    for(int j=1; j<=i; j++ ){
+      System.out.print("*");
+    }
+    System.out.println();
+  }
+  }
+  }
+  }
+    
