@@ -13,7 +13,7 @@ Question ->
                 first we print the value of n1, n2.
                 Now we run a loop i=2 to i<count and ++i.
                 The we add n1 and n2 and store the value in n3,and print n3.
-                Then the n1 become n2 and n3 become n3.
+                Then the n1 become n2 and n2 become n3.
                 
   
   */
