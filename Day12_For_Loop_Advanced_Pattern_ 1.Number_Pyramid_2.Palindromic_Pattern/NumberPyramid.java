@@ -1,17 +1,17 @@
-Question ->
-          In this question we create a number of Pyramid  Like this
-                        1
-                       2 2
-                      3 3 3 
-                     4 4 4 4
-                    5 5 5 5 5
+// Question ->
+//           In this question we create a number of Pyramid  Like this
+//                         1
+//                        2 2
+//                       3 3 3 
+//                      4 4 4 4
+//                     5 5 5 5 5
 
 
-Logic->
-        First we run a loop i=0 to i<=n and in this loop we run another loop,
-        j=1 to j<=n-i and in this inner loop we simply print spaces.
-        Out side of this loop we run another for loop j=1 to j<=i; in this loop we 
-        print the value of i and out side of the loop we simple give a new line
+// Logic->
+//         First we run a loop i=0 to i<=n and in this loop we run another loop,
+//         j=1 to j<=n-i and in this inner loop we simply print spaces.
+//         Out side of this loop we run another for loop j=1 to j<=i; in this loop we 
+//         print the value of i and out side of the loop we simple give a new line
 
 Solution->
  
